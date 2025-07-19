@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Logic
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1080416071
+    locked: 0
+  - name: Clouds
+    uniqueID: 810603183
+    locked: 0
+  - name: Distant Mountains
+    uniqueID: 545189625
+    locked: 0
+  - name: Close Mountains
+    uniqueID: 665783541
+    locked: 0
+  - name: Ground
+    uniqueID: 911938451
+    locked: 0
+  - name: Main
+    uniqueID: 2433221317
+    locked: 0
+  m_RenderingLayers:
+  - Default
